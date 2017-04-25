@@ -1,7 +1,7 @@
 # DollarPRecognizer
 $p Recognizer written in swift 3 
 
-![Screencapture GIF](DollarPRecognizer/out.gif)
+![Screencapture GIF](DollarPRecognizer/out.gif?raw=true "Optional Title")
 
 $P Point-Cloud Recognizer fast gesture recognition algorithm by Radu-Daniel Vatavu, Lisa Anthony, Jacob O. Wobbrock written in swift 3.
 
